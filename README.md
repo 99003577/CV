@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+Hi, I am Priyansh Pandey
+Ps Number 99003577
+Instructor Patrick Andrews
 
-You can use the [editor on GitHub](https://github.com/99003577/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Technologies worked -
+1.SDLC (Score 77)
+2.C# (Score 58)
+3.Microsoft SQL Server (Score 66)
+4. DAL Development using ADO.NET and EF (Score 92)
+5. Web Service Layer Development using ASP.NET Web API : 81
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
 
 ### Markdown
 
