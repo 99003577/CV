@@ -31,21 +31,18 @@ Instructor- Patrick Andrews
 ## Platforms -
 1. Azure DevOps
 
- 1.1 Pipelines with Continous Integration
-
- 1.2 Creating and Managing Boards
- 
- 1.3 Creating and Managing Repos
+   * Pipelines with Continous Integration
+   * Creating and Managing Boards 
+   * Creating and Managing Repos
  
 2. GitHub
 
- 2.1 Creating and Managing Repos
-
- 2.2 Creating workflows
+   * Creating and Managing Repos
+   * Creating workflows
 
 3. Azure
 
- 3.1 Creating and Managing Virtual Machines
+   * Creating and Managing Virtual Machines
  
  
 # Badges 
@@ -57,7 +54,7 @@ Instructor- Patrick Andrews
   1.2 Problem Solving Silver Badge ![probl](https://user-images.githubusercontent.com/78849681/112249281-78c66280-8c7d-11eb-875a-a0afd1f8f299.JPG)
 
 
-2. MicroSoft Badges
+2. Microsoft Badges
 
 
 
@@ -66,10 +63,10 @@ Instructor- Patrick Andrews
 
 
 ## Projects Worked On -
-1. [Demokart - Creating a program for managing shopping store] (https://github.com/99003577/DemoKart.git)
+1. [Demokart - Creating a program for managing shopping store](https://github.com/99003577/DemoKart.git)
 
 
-2. [SmartCalculator - Using SDLC approach to create a calculator program] (https://github.com/99003577/SmartCalculator.git)
+2. [SmartCalculator - Using SDLC approach to create a calculator program](https://github.com/99003577/SmartCalculator.git)
 
 3. [Embedded Lab Managment - Creating a program to rectify the issues faced in allocation of resources to employees](https://priyanshpandey@dev.azure.com/priyanshpandey/99003577_Emb_Lab_Managment/_git/99003577_Emb_Lab_Managment)
 
