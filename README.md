@@ -1,4 +1,4 @@
-#Hi, I am Priyansh Pandey
+# Hi, I am Priyansh Pandey
 
 Ps Number - 99003577
 
@@ -10,26 +10,26 @@ Website - [Priyansh Pandey](http://priyanshpandey.com)
 
 Instructor- Patrick Andrews
 
-##Technologies worked - 
+## Technologies worked - 
 
 1. SDLC (Score 77)
 2. C# with Unit Testing
 3. Microsoft SQL Server 
 
-##Frameworks -
+## Frameworks -
 1. .Net Framework
 2. ADO.Net Framework and Entity Framework (Score 92)
 3. Web Service Layer Development using ASP.NET Web API (Score 81)
 4. LINQ
 5. MVC FRAMEWORK
 
-##Tools Worked On -
+## Tools Worked On -
 1. Microsoft Visual Studio 2019
 2. SSMS
 3. Microsoft Visual Code 
 4. PostMan
 
-##Platforms -
+## Platforms -
 1. Azure DevOps
  1.1 Pipelines with Continous Integration
  1.2 Creating and Managing Boards
@@ -43,7 +43,7 @@ Instructor- Patrick Andrews
  3.1 Creating and Managing Virtual Machines
  
  
-#Badges 
+# Badges 
 1. HackerRank Badges
 
   1.1 SQL Gold Badge 
@@ -58,11 +58,11 @@ Instructor- Patrick Andrews
 
 
 
-#Certifications
+# Certifications
 ![C# Basic](https://user-images.githubusercontent.com/78849681/112249674-30f40b00-8c7e-11eb-8117-beda34acc7e7.png)
 
 
-##Projects Worked On -
+## Projects Worked On -
 1. [Demokart - Creating a program for managing shopping store] (https://github.com/99003577/DemoKart.git)
 
 
