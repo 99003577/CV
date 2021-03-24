@@ -79,8 +79,12 @@ Instructor- Patrick Andrews
 
 
 # Apart From CTEA 
+## Research Papers
 I have done 2 research Papers-
-* [Multi 
+* [Multi-Digit Number Classification using MNIST and ANN](https://www.ijert.org/multi-digit-number-classification-using-mnist-and-ann)
+* [Artificial Intelligence Approach for Tic Tac Toe](http://ijsrem.com/download/artificial-intelligence-approach-for-tic-tac-toe/?wpdmdl=1733&masterkey=5d5fec00a5945)
+
+
 
 
 
