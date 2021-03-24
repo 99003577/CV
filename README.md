@@ -1,4 +1,4 @@
-# Hi, I am Priyansh 
+# Hi, I am Priyansh Pandey
 Ps Number - 99003577  
 Website - [Priyansh's Website](http://priyanshpandey.com)  
 Linkedin - [Priyansh's Linkedin](https://in.linkedin.com/in/priyanshpandey3)  
@@ -72,14 +72,15 @@ Instructor- Patrick Andrews
 ## Projects Worked On -
 1. [Demokart - Creating a program for managing shopping store](https://github.com/99003577/DemoKart.git)
 
-
 2. [SmartCalculator - Using SDLC approach to create a calculator program](https://github.com/99003577/SmartCalculator.git)
 
 3. [Embedded Lab Managment - Creating a program to rectify the issues faced in allocation of resources to employees](https://priyanshpandey@dev.azure.com/priyanshpandey/99003577_Emb_Lab_Managment/_git/99003577_Emb_Lab_Managment)
 
 
 
-
+# Apart From CTEA 
+I have done 2 research Papers-
+* [Multi 
 
 
 
