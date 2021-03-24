@@ -1,6 +1,7 @@
 # Hi, I am Priyansh Pandey
 Ps Number - 99003577  
-Website - [Priyansh Pandey](http://priyanshpandey.com)  
+Website - [Priyansh's Website](http://priyanshpandey.com)  
+Linkedin - [Priyansh's Linkedin](https://in.linkedin.com/in/priyanshpandey3)
 Contact number- 8003519107  
 Email- priyansh.pandey@ltts.com  
 Instructor- Patrick Andrews
@@ -80,6 +81,8 @@ Instructor- Patrick Andrews
 
 
 
+## Apart Form CTEA 
+I have done following research projects- 
 
 
 
