@@ -1,4 +1,4 @@
-# Hi, I am Priyansh Pandey
+# Hi, I am Priyansh 
 Ps Number - 99003577  
 Website - [Priyansh's Website](http://priyanshpandey.com)  
 Linkedin - [Priyansh's Linkedin](https://in.linkedin.com/in/priyanshpandey3)  
