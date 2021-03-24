@@ -48,10 +48,14 @@ Instructor- Patrick Andrews
 # Badges 
 1. HackerRank Badges
 
-  1.1 SQL Gold Badge![Sql](https://user-images.githubusercontent.com/78849681/112249286-7c59e980-8c7d-11eb-8d9b-291219ce6b9a.JPG)
+  1.1 SQL Gold Badge
+ 
+![Sql](https://user-images.githubusercontent.com/78849681/112249286-7c59e980-8c7d-11eb-8d9b-291219ce6b9a.JPG)
   
   
-  1.2 Problem Solving Silver Badge ![probl](https://user-images.githubusercontent.com/78849681/112249281-78c66280-8c7d-11eb-875a-a0afd1f8f299.JPG)
+  1.2 Problem Solving Silver Badge
+
+![probl](https://user-images.githubusercontent.com/78849681/112249281-78c66280-8c7d-11eb-875a-a0afd1f8f299.JPG)
 
 
 2. Microsoft Badges
