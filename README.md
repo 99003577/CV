@@ -1,12 +1,8 @@
 # Hi, I am Priyansh Pandey
-Ps Number - 99003577
-
+Ps Number - 99003577  
 Website - [Priyansh Pandey](http://priyanshpandey.com)  
-
-Contact number- 8003519107
-
-Email- priyansh.pandey@ltts.com
-
+Contact number- 8003519107  
+Email- priyansh.pandey@ltts.com  
 Instructor- Patrick Andrews
 
 ## Technologies worked - 
