@@ -56,7 +56,7 @@ Instructor- Patrick Andrews
 ![probl](https://user-images.githubusercontent.com/78849681/112249281-78c66280-8c7d-11eb-875a-a0afd1f8f299.JPG)
 
 
-2. Microsoft Badges
+2. Microsoft Badges 
 
 ![s1](https://user-images.githubusercontent.com/78849681/112252175-9813be80-8c82-11eb-9095-836e6189f5a9.PNG)
 ![s2](https://user-images.githubusercontent.com/78849681/112252186-9d710900-8c82-11eb-9b4d-c063b1747919.PNG)
