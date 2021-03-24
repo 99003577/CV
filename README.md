@@ -61,6 +61,11 @@ Instructor- Patrick Andrews
 
 2. Microsoft Badges
 
+![s1](https://user-images.githubusercontent.com/78849681/112252175-9813be80-8c82-11eb-9095-836e6189f5a9.PNG)
+![s2](https://user-images.githubusercontent.com/78849681/112252186-9d710900-8c82-11eb-9b4d-c063b1747919.PNG)
+![s3](https://user-images.githubusercontent.com/78849681/112252193-a1049000-8c82-11eb-858d-bc9352c65bf3.PNG)
+
+
 
 
 # Certifications
