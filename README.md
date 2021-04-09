@@ -68,6 +68,9 @@ Instructor- Patrick Andrews
 # Certifications
 ![C# Basic](https://user-images.githubusercontent.com/78849681/112249674-30f40b00-8c7e-11eb-8117-beda34acc7e7.png)
 
+![hackerrank sql priyansh](https://user-images.githubusercontent.com/78849681/114139524-c8b75180-992c-11eb-8b17-38b0416ddc2a.png)
+
+
 
 ## Projects Worked On -
 1. [Demokart - Creating a program for managing shopping store](https://github.com/99003577/DemoKart.git)
